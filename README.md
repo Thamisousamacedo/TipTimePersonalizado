@@ -1,7 +1,7 @@
 Atividade do Android Developers.
 Unidade 2: Interacting with UI and state
 
-Este é um aplicativo Android criado em Kotlin utilizando Jetpack Compose. Ele calcula uma gorjeta personalizada com base no valor da conta e na porcentagem escolhida pelo usuário. 
+Continuação do app da calculadora Tip Time que foi personalizada com um botão de arredondar o valor.
 
 O que aprendi:
 - Como pensar sobre o estado em uma interface.
