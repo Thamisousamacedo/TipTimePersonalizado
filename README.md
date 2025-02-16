@@ -1,6 +1,6 @@
 Este é um aplicativo Android criado em Kotlin utilizando Jetpack Compose. Ele calcula uma gorjeta personalizada com base no valor da conta e na porcentagem escolhida pelo usuário. 
 
-- O que aprendi:
+O que aprendi:
 - Como pensar sobre o estado em uma interface.
 - Como o Compose usa o estado para mostrar dados.
 - Como adicionar uma caixa de texto ao app.
