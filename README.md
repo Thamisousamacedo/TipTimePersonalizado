@@ -1,6 +1,12 @@
+Este é um aplicativo Android criado em Kotlin utilizando Jetpack Compose. Ele calcula uma gorjeta personalizada com base no valor da conta e na porcentagem escolhida pelo usuário. 
 
-Este é um aplicativo Android criado em Kotlin utilizando Jetpack Compose. Ele calcula uma gorjeta personalizada com base no valor da conta e na porcentagem escolhida pelo usuário. As funcionalidades incluem:
 
+O que aprendi:
+- Como adicionar um botão de ação a um teclado virtual.
+- O que é um elemento combinável Switch e como usá-lo.
+- Adicionar ícones principais aos campos de texto
+
+As funcionalidades incluem:
 1.	Tela Principal (TipTimeLayout):
 o	O layout possui dois campos de entrada:
 - Valor da conta: O usuário insere o valor total.
@@ -28,5 +34,7 @@ o	O layout possui dois campos de entrada:
 5.	Preview (@Preview):
 -	Permite visualizar o layout da calculadora no Android Studio antes de rodar no dispositivo.
 
+Confira o app nesta imagem:
 
+![image](https://github.com/user-attachments/assets/7c55299d-048c-4549-b17d-e6b56bfb4ee3)
 
